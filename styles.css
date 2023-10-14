@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter/Inter-Bold.ttf);
+}
+@font-face {
+    font-family:'Inter';
+    src: url(./fonts/Inter/Inter-Regular.ttf);
+}
+
+
+body{
+    width: 1440px;
+    height: 1104px;
+
+    background-image: url(./aksonvady_Data_technology_futuristic_illustration\ 31\ 1.png);
+    background-size: cover;
+}
+
+h1{
+    margin-top: 25px;
+    margin-left: 31px;
+    color: #C3C3C3;
+    font-family: 'Inter';
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    text-align: left;
+}
+
+h5{
+    margin-left: 31px;
+    color: #C3C3C3;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+
+}
+.about{
+    margin-top: 21px;
+    margin-left: 31px;
+    
+}
+p{
+    color: #ffffff;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+
+}
+
+.p1, .p2{ 
+    margin-top: 20px;
+    margin-left: 31px;
+}
+.hard-skills{
+    margin-top: 20px;
+    margin-left: 31px;
+}
+
+.writing-and-more{
+    margin-top: 21px;
+    margin-left: 31px;
+}
+
+.sposhe{
+    margin-top: 15px;
+    margin-left: 31px;
+}
+
+.p3{
+    margin-top: 15px;
+    margin-left: 31px;
+}
+
+.poisson{
+    margin-top: 44px;
+    margin-left: 31px;
+}
+
+h6{
+   color: #C3C3C3;;
+   font-family: 'Inter';
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 17px;
+   text-align: left;
+}
+
+.p4{
+    margin-top: 13px;
+    margin-left: 31px;
+}
